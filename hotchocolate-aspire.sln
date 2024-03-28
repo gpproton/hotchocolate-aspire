@@ -1,0 +1,54 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 17.8.0.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotchocolate-aspire.AppHost", "hotchocolate-aspire.AppHost\hotchocolate-aspire.AppHost.csproj", "{AAB3E317-BC6A-4225-8B8D-7E86466B39D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotchocolate-aspire.ServiceDefaults", "hotchocolate-aspire.ServiceDefaults\hotchocolate-aspire.ServiceDefaults.csproj", "{2146CFA7-CF55-4C5F-9E46-E3BA7D6A8563}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotchocolate-aspire.ApiService", "hotchocolate-aspire.ApiService\hotchocolate-aspire.ApiService.csproj", "{277C1F0F-1CBB-4149-9EB0-24E693F98B0D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotchocolate-aspire.Web", "hotchocolate-aspire.Web\hotchocolate-aspire.Web.csproj", "{37D31912-0B94-41DD-91EB-D65E74BC6DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotchocolate-aspire.ApiService2", "hotchocolate-aspire.ApiService2\hotchocolate-aspire.ApiService2.csproj", "{2AA46FA6-2BC1-428F-9200-71BD23D6ABC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotchocolate-aspire.ApiGateway", "hotchocolate-aspire.ApiGateway\hotchocolate-aspire.ApiGateway.csproj", "{4EB41F5D-92E5-49E6-BC50-973A0B9FF6B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB3E317-BC6A-4225-8B8D-7E86466B39D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB3E317-BC6A-4225-8B8D-7E86466B39D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB3E317-BC6A-4225-8B8D-7E86466B39D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB3E317-BC6A-4225-8B8D-7E86466B39D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2146CFA7-CF55-4C5F-9E46-E3BA7D6A8563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2146CFA7-CF55-4C5F-9E46-E3BA7D6A8563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2146CFA7-CF55-4C5F-9E46-E3BA7D6A8563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2146CFA7-CF55-4C5F-9E46-E3BA7D6A8563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277C1F0F-1CBB-4149-9EB0-24E693F98B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277C1F0F-1CBB-4149-9EB0-24E693F98B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277C1F0F-1CBB-4149-9EB0-24E693F98B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277C1F0F-1CBB-4149-9EB0-24E693F98B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D31912-0B94-41DD-91EB-D65E74BC6DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D31912-0B94-41DD-91EB-D65E74BC6DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D31912-0B94-41DD-91EB-D65E74BC6DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D31912-0B94-41DD-91EB-D65E74BC6DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AA46FA6-2BC1-428F-9200-71BD23D6ABC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA46FA6-2BC1-428F-9200-71BD23D6ABC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA46FA6-2BC1-428F-9200-71BD23D6ABC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA46FA6-2BC1-428F-9200-71BD23D6ABC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB41F5D-92E5-49E6-BC50-973A0B9FF6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB41F5D-92E5-49E6-BC50-973A0B9FF6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB41F5D-92E5-49E6-BC50-973A0B9FF6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB41F5D-92E5-49E6-BC50-973A0B9FF6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7495625-EE72-41DE-A3CD-B2C8F5CE3092}
+	EndGlobalSection
+EndGlobal
